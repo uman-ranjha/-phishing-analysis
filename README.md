@@ -12,7 +12,7 @@ within 24 hours if I had questions about the charge.
 
 From what I read, this is called callback phishing. The idea is you panic, call
 the number, and someone pretending to be support tries to get remote access to
-your computer or your bank info. I didn't call it.
+your computer or your bank info. 
 
 <img width="500" alt="Invoice" src="https://github.com/user-attachments/assets/20fff9c0-dcc7-43e4-a907-1b048fd904c0" />
 
